@@ -109,6 +109,13 @@ npm run build
 The project includes Pest for testing and is ready for writing feature or unit tests when needed.
 
 ---
+screenshots: 
+![tasks index](screenshots/tasksindex.png)
+![Adding task](screenshots/addtask.png)
+![mark a task as completed](screenshots/completedtask.png)
+
+
+---
 
 ## 📝 License
 
